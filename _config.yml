@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Data Science
+title: Sang Yup Lee
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Sang Yup Lee's webpage
 
 # --- Navigation bar options --- #
 
@@ -35,7 +35,7 @@ avatar: "/img/ethan1.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: /img/ethan1.jpg
+# title-img: /img/ethan1.jpg
 
 # --- Background colour/image options --- #
 
