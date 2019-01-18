@@ -28,6 +28,7 @@ My research interests include:
 
 # Teaching
 I teach the following topics:
+- Econometric approaches for online data
 - Online data analysis
 - Text analysis
 - Network analysis
@@ -35,5 +36,4 @@ I teach the following topics:
 - Linear Algebra for Data Science
 - Introduction to Probability and Statistics for Data Science
 - Media Economics
-- Econometric approaches for online data
 - Communication Research Methods
