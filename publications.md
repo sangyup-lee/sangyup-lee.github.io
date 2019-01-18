@@ -26,5 +26,9 @@ title: Publications
 - 백영민∙이상엽∙유경한 (2016). 위기의 순간인가 기회의 순간인가?: 언론학 교육과정(curriculum) 개선의 성공을 위한 시론. 사이버커뮤니케이션 학보, 33(4), 5-37. 
 - Lee, S.Y. (2016). Introduction to Statistical Inference in Social Network Analysis: Exponential Random Graph Models. 연구방법논총, 1(2), 113-138.
 
+## Book chapters
+- 이상엽 (2017). 파이선을 이용한 온라인 데이터 분석 방법 소개: 텍스트 데이터를 중심으로. In한국언론학회 (Eds.), 데이터 시대의 언론학 연구, 커뮤니케이션북스.
+- Wildman, S., & Lee, S.Y. (2015). Economics of Trade in Media Products. In R. Picard & S. Wildman (Eds.), Handbook on the Economics of the Media. Cheltenham, UK: Edward Elgar Publishing Ltd.
+- Lee, S. Y., & Wildman, S. (2012). Protecting and Promoting National Cultures in a World Where Bits Want to Flow Freely. In A. Candeub & S. Pager (Eds.), Transnational Culture in the Internet Age. Cheltenham, UK: Edward Elgar Publishing Ltd.
 
 
