@@ -9,6 +9,8 @@ title: Teaching
 ## Teaching Topics
 **Econometric approaches for online data**
 
+**Web scraping with Python**
+
 **Online data analysis**
 
 **Text analysis**
@@ -20,6 +22,8 @@ title: Teaching
 **Linear Algebra for Data Science**
 
 **Introduction to Probability and Statistics for Data Science**
+
+**Introduction to Python Programming**
 
 **Media Economics**
 
