@@ -1,13 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Life, Journey, Family, and Data Science
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Sang Yup Lee. I spend most of time doing research, studying, teaching, and with/for my family.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am interested in the following anlytical methods:
+- Econometrics
+- Text analysis
+- Network analysis
+- 
+My research interests include:
+- Data s
 
 What else do you need?
 
