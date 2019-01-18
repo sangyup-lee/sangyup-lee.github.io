@@ -9,7 +9,7 @@ I am an [Assistant Professor](http://comm.yonsei.ac.kr) at the Communication Dep
 
 I spend most of time doing research, studying, teaching, and with/for my family.
 
-I am interested in the following anlytical methods (Basically, I like Data Science):
+I am interested in the following analytical methods (Basically, I like Data Science):
 - Econometrics
 - Text analysis
 - Network analysis
