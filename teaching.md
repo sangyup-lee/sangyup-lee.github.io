@@ -4,8 +4,6 @@ title: Teaching
 #subtitle: Life, Journey, Family, and Data Science
 ---
 
-#[Curriculum Vitae](./CV_Sang Yup Lee_latest.pdf)
-
 ## Teaching Topics
 **Econometric approaches for online data**
 
