@@ -24,9 +24,9 @@ description: Sang Yup Lee's webpage
 # List of links in the navigation bar
 navbar-links:
   Home: "index.html"
-  Teaching: 
+  Teaching: "teaching"
   Research:
-    - Research Interests:
+    - Research Interests: "research_interests"
     - Publications: "publications"
   About Me: "aboutme"
 
