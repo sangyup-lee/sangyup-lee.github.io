@@ -71,10 +71,10 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
-  email: "someone@example.com"
+  rss: false
+  email: "yyup79@gmail.com"
 #  facebook: daattali
-  github: https://github.com/sangyup-lee
+  github: sangyup-lee
 #  twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
