@@ -11,6 +11,10 @@ title: Teaching
 
 **Media Psychology with Computational Approaches**
 
+**Media Psychology with survey and experiments**
+
+**Privacy and ICT (+ AI technologies)**
+
 **Information credibility**
 
 **Information sharing**
