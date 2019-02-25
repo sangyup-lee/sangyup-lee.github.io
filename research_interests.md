@@ -5,7 +5,7 @@ title: Teaching
 ---
 
 ## Research Interests
-**Media effects on public health**
+**Media effects on public health (Health Informatics)**
 
 **Use of ICT for health-related purposes**
 
