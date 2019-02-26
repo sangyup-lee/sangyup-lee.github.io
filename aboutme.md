@@ -20,11 +20,13 @@ I am interested in the following analytical methods (Basically, I like Data Scie
 # Research
 My research interests include:
 - Media effects on public health
+- Health Informatics
 - Use of ICT for health-related purposes
 - Information credibility
 - Information sharing
 - Adoption of new technologies
 - Consumer behavior
+- Media Economics
 
 # Teaching
 I teach the following topics:
