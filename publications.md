@@ -8,9 +8,9 @@ title: Publications
 
 ## Peer reviewed journals
 **2019**
-- Lee, S.Y.(in press). Examining factors that influence the success of online games. Journal of Media Economics & Culture (Korean Journal)
+- Lee, S.Y.(forthcoming). Examining factors that influence the success of online games. Journal of Media Economics & Culture (Korean Journal)
 - Lee, S. Y. & Jang, K. Y. (forthcoming). Antecedents of impression management motivations on social network sites and their link to social anxiety. Media Psychology.
-- Lee, S. Y. (in press). Media coverage of adolescent and celebrity suicides and imitation suicides among adolescents. Journal of Broadcasting & Electronic Media.
+- Lee, S. Y. (forthcoming). Media coverage of adolescent and celebrity suicides and imitation suicides among adolescents. Journal of Broadcasting & Electronic Media.
 - Lee, S. Y. (2019). Media coverage of celebrity suicide caused by depression and increase in the number of people who seek depression treatment. Psychiatry Research, 271, 598-603.
 
 **2018**
