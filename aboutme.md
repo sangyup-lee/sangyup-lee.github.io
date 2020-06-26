@@ -5,7 +5,7 @@ subtitle: Life, Journey, Family, and Data Science
 ---
 
 My name is Sang Yup Lee. 
-I am an [Assistant Professor](http://comm.yonsei.ac.kr) at the Communication Department, Yonsei University
+I am an [Associate Professor](http://comm.yonsei.ac.kr) at the Communication Department, Yonsei University
 
 I spend most of time doing research, studying, teaching, and with/for my family.
 
